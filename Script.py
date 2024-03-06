@@ -26,7 +26,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 🌿 ᴍᴀɴᴀɢᴇᴅ ʙʏ : <a href='https://t.me/PICTURE_MEDIA_Official'>PICTURE MEDIA Official</a></b>"""
 
     ABOUT_TXT = """<b>⍟───[ ʙᴏᴛ ᴅᴇᴛᴀɪʟꜱ ]───⍟
- ‣ ᴍʏ ɴᴀᴍᴇ : FILE SHARE BOT 2 PICTURE_MEDIA_Official
+ ‣ ᴍʏ ɴᴀᴍᴇ : FILE SHARE BOT 2 |PICTURE_MEDIA_Official|
  ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/PICTURE_MEDIA_Official'>PICTURE MEDIA Official</a> 
  ‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://render.com'>ʀᴇɴᴅᴇʀ</a> 
  ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
