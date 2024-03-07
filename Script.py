@@ -6,6 +6,7 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
     
+Bot Managed and Owned by  @PICTURE_MEDIA_Official
 ɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏꜰɪʟᴛᴇʀ + ᴍᴀɴᴜᴀʟꜰɪʟᴛᴇʀ + ꜰɪʟᴇsᴛᴏʀᴇ ʙᴏᴛ.
 ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪ ᴡɪʟʟ ɢɪᴠᴇ ᴍᴏᴠɪᴇs ᴏʀ sᴇʀɪᴇs ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ  !!</b>"""
 
@@ -220,7 +221,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """<b>{file_name}
 
-<b>💢 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ : <a href='https://t.me/PICTURE_MEDIA_Official'>PICTURE MEDIA Official</a></b>""" 
+<b>💢 Join : <a href='https://t.me/PICTURE_MEDIA_Official'>PICTURE MEDIA Official</a></b>""" 
 
     IMDB_TEMPLATE_TXT = """
 IMDb Data:
